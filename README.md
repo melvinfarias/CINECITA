@@ -1,0 +1,2 @@
+Cinecita
+Cinecita es una página web que simula una cartelera de cine, mostrando películas en cartelera con su título, descripción, imagen y opciones relacionadas. Diseñada para brindar una experiencia visual atractiva y ordenada.
